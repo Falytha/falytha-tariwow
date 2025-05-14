@@ -4,10 +4,10 @@ st.title("🎈Falytha TariwOw")
 st.write(
     "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
 )
-st.image("IMG_0942.jpeg", width=300)
-st.image("IMG_6916.jpeg", width=300)
+st.image("IMG_0942.jpeg", width=400)
+st.image("IMG_6916.jpeg", width=500)
 st.write("\n")
-st.subheader("lestari(kan bumi!)")
+st.subheader("lestari(kan bumi)")
 st.write("Mari bersatu menjadi avenger")
 st.write(
     """
