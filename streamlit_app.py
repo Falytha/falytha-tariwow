@@ -6,3 +6,8 @@ st.write(
 )
 st.image("IMG_0942.jpeg")
 st.image("IMG_6916.jpeg")
+st.write("\n")
+st.subheader("lestari(kan bumi)")
+st.write("Mari menjadi avenger")
+st.write("- capt. america
+         - blackwidow")
