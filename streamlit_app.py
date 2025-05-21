@@ -8,7 +8,7 @@ st.image("IMG_0942.jpeg", width=400)
 st.image("IMG_6916.jpeg", width=500)
 st.write("\n")
 st.subheader("lestari(kan bumi)")
-st.write("Mari bersatu menjadi avenger")
+st.write("Mari bersatu menjadi avenger!")
 st.write(
     """
     - captain ameridut >in pict
